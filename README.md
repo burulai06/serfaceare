@@ -21,3 +21,5 @@ Polymorphism is used in this project through the `Shape3DInterface`. All the 3D 
 1. Clone this repository using Git.
 2. Compile the Java files using `javac`.
 3. Run the `Main` class with `java Main`.
+
+![image](https://github.com/user-attachments/assets/54581b5d-9249-48a7-9e69-652e1302a7ce)
